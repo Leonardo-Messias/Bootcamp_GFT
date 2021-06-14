@@ -1,6 +1,6 @@
-# Livro de Receitas  
+# Livro de Receitas :shallow_pan_of_food:  
 
-Olá! Bem vindo ao livro de receitas:1st_place_medal:
+Olá! Bem vindo ao livro de receitas
 
 - Strogonoff
 - Pavê

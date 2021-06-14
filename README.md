@@ -1,5 +1,7 @@
-# Livro de Metas :cowboy_hat_face:
+# Livro de Receitas  
 
-Olá! Bem vindo ao livro de metas:1st_place_medal:
+Olá! Bem vindo ao livro de receitas:1st_place_medal:
 
-- Leonardo Messias
+- Strogonoff
+- Pavê
+- Pudim
